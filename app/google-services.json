@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210912149588",
+    "project_id": "tasty-kingdom",
+    "storage_bucket": "tasty-kingdom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210912149588:android:a086618636917562522dc1",
+        "android_client_info": {
+          "package_name": "com.tech.tastykingdom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210912149588-ih8ol8pn2bjkb42j4li9hqhiaok396ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFYEYTl0PlX2vpUDNjchD-RdQsXAPrHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210912149588-ih8ol8pn2bjkb42j4li9hqhiaok396ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
